@@ -55,7 +55,7 @@ body{
     bottom: 0;
     width: 100%;
     text-align: center;
-    background-color: #383838 !important;
+  
   
   }
   
@@ -66,4 +66,25 @@ body{
       width: 100%;
     }
   }
+  /* Entrada de texto */
+  .input {
+    color: #ffffff;
+    border: 2px solid #8707ff;
+    border-radius: 10px;
+    padding: 10px 25px;
+    background: transparent;
+    width: 100%;
+   }
+   
+   .input:active {
+    box-shadow: 2px 2px 15px #8707ff inset;
+   }
+
+   /* boton enviar */
+   .btnEnviar{
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+   }
+
   
