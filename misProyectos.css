@@ -19,8 +19,9 @@ body{
     justify-content: center;
     color: white;
    
-    font-size: 30px;
+    font-size: 25px;
     margin-top: 80px;
+    text-align: justify;
   
 }
 
@@ -28,9 +29,10 @@ body{
 
 /* tarjetas */
 .card-custom{
-    margin: auto;
+ margin: auto;
     margin-top: 10px;
     margin-bottom: 10px;
+    
 }
 
 
