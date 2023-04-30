@@ -13,6 +13,11 @@ body{
 
 }
 
+.imagenesCarrusel{
+  height: 25em;
+  width: 25em;
+}
+
 
 .nav-color{
     color: antiquewhite;
@@ -68,8 +73,6 @@ body{
     }
   }
   .cardPrincipal {
-  
- 
     position: relative;
     display: flex;
     place-content: center;
